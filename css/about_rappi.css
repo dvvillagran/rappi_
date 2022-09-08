@@ -1,0 +1,145 @@
+.About-Rappi {
+    width: 100%; 
+}
+
+.About-Rappi .titulo {
+    width: 100%;
+    background-color: var(--color5);
+    padding: 4rem 2rem;
+}
+
+.About-Rappi .titulo h3 {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.About-Rappi .titulo h3 span {
+    font-weight: 900;
+}
+
+.About-Rappi .titulo h3 hr {
+    margin: 0 1rem;
+}
+
+.About-Rappi .titulo h2 {
+    font-size: 5rem;
+    margin-top: 3rem;
+}
+
+.contenido {
+    width: 100%;
+    padding: 4rem 2rem;
+}
+
+.contenido p {
+    font-size: 1.5rem;
+    color: var(--color2);
+    padding: 1rem;
+}
+
+.botones {
+    padding: 3rem;
+    display: flex;
+}
+
+.team {
+    text-decoration: none;
+    display: block;  
+    width: 15rem;
+    height: 5rem;
+    box-shadow: 1px 2px 64px -2px rgba(255,113,117,1);
+    background-color: var(--color1);
+    color: var(--color4);
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    border-radius: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video {
+    text-decoration: none;
+    display: block;
+    border: 2px solid var(--color1);
+    width: 12rem;
+    height: 5rem; 
+    color: var(--color1);
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    border-radius: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1.8rem;
+}
+
+.what-makes-rappi-great {
+    width: 100%;
+}
+
+.what-makes-rappi-great {
+    width: 100%;
+    background-color: var(--color4);
+    padding: 4rem 2rem;
+}
+
+.what-makes-rappi-great .etiqueta {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.what-makes-rappi-great .etiqueta span {
+    font-weight: 900;
+}
+
+.what-makes-rappi-great .etiqueta hr {
+    margin: 0 1rem;
+}
+
+.open-positions {
+    width: 100%;
+}
+
+.open-position .open-positions {
+    width: 100%;
+    background-color: rgb(245, 112, 112);
+    padding: 4rem 2rem;
+}
+
+.open-position .etiqueta {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-size: 2rem;
+    font-weight: 100;
+    color: var(--color4);
+}
+
+.open-position .etiqueta span {
+    font-weight: 900;
+    color: var(--color4);
+}
+
+.open-position .etiqueta hr {
+    margin: 0 1rem;
+    color: var(--color4);
+}
+
+.open-positions h2 {
+    font-size: 5rem;
+    margin-top: 3rem;
+    color: var(--color4);  
+}
+
+.open-positions p {
+    font-size: 1.5rem;
+    color: var(--color4);
+    padding: 1rem;
+}

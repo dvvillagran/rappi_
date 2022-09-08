@@ -1,0 +1,47 @@
+.what-makes-rappi-great {
+    background-color: var(--color4);
+    padding: 1rem 2rem;
+}
+
+.galeria {
+ background-color: var(--color4);
+}
+
+.item {
+    background-color: var(--color4);
+}
+
+.jc-img {
+    width: 100%;
+    height: 20rem;
+}
+
+.jc-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.galeria {
+    margin-top: 5rem;
+}
+
+.content h3 {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+.content p {
+  font-size: 1.5rem;
+  color: var(--color2);
+  font-weight: 500;
+  margin-top: 1.5rem;
+}
+
+.content span {
+    display: block;
+    font-size: 1.6rem;
+    color: var(--color1);
+    margin-top: 3rem;
+    font-weight: 600;
+}
